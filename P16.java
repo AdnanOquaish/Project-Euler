@@ -25,4 +25,5 @@ public class P16 {
 		}
 		System.out.println(sum);
 	}
+	
 }
