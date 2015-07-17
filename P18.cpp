@@ -23,7 +23,7 @@
     typedef vector<lsi> vls;
     typedef vector<bool> vb;
     typedef set<int> sti;
-    typedef vector<int> vi;
+     typedef vector<int> vi;
     typedef vector<vi> vvi;
     typedef vector<li> vl;
     typedef vector<ll> vll;
