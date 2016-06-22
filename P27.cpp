@@ -4,6 +4,7 @@ using namespace std;
 
 // Answer: -59231
 // Took around 3000ms on an Intel i5-3210M Processor(2.50 GHz) with 6GB RAM
+// Will Optimize it using CUDA
 
 bool isPrime(int n)
 {
